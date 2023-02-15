@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/114129828/218948872-bb34e728-8b2a-4050-9045-b3818434b558.png)
 ![image](https://user-images.githubusercontent.com/114129828/218949297-512ca045-4676-4e41-b827-3814277bfa7d.png)
 ![image](https://user-images.githubusercontent.com/114129828/218949376-544b6a80-cb27-41df-8b09-67749a2bb487.png)
-# Some examples for ui smartphone
+# Some examples for ui mobile
 ![image](https://user-images.githubusercontent.com/114129828/218949894-2c80c1a3-b87b-4db3-873e-b777f5d69132.png)
 ![image](https://user-images.githubusercontent.com/114129828/218949982-2a435f39-4fba-495d-ae7f-776466a8dcdf.png)
 ![image](https://user-images.githubusercontent.com/114129828/218950140-b0070d55-ea4b-413b-9848-41a27c89f2e4.png)
